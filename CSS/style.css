@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+  }
+  
+  #data-container {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 80px;
+    width: 300px;
+  }
+  
+  .error {
+    color: red;
+  }
+  
